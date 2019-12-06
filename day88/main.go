@@ -6,8 +6,8 @@ import (
 )
 
 func main() {
-	question1()
-	question2()
+	question1() //1
+	question2() //false
 }
 
 func question1()  {
